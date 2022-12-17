@@ -2,20 +2,20 @@
   "name": "IceCream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://IvanPanin675.github.io/ice-cream",
+  "homepage": "https://IvanPanin675.github.io/IceCream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream/"
+    "build": "parcel build src/*.html --public-url /IceCream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IvanPanin675/ice-cream.git"
+    "url": "git+https://github.com/IvanPanin675/IceCream.git"
   },
   "keywords": [],
   "author": "Ivan Panin <jovanni.94.van@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IvanPanin675/ice-cream/issues"
+    "url": "https://github.com/IvanPanin675/IceCream/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
